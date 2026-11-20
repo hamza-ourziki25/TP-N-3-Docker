@@ -1,8 +1,5 @@
 # TP N°3 : Docker – Multi-container deployment with Docker Compose
 
-**School:** École Supérieure de Technologie de Meknès (ESTM) – Département Génie Informatique
-**Track:** IAScid | **Semester:** S5 | **Course:** MLOps | **Prof.:** S. Nasiri
-
 ## Objective
 
 Deploy a three-tier application (static frontend + Flask API + MySQL database) using **Docker Compose**, then automate the build and publication of the images to **Docker Hub** with a **GitHub Actions** CI pipeline.
